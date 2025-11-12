@@ -1,0 +1,14 @@
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/bin/Debug/net8.0/HolaMundo
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/bin/Debug/net8.0/HolaMundo.deps.json
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/bin/Debug/net8.0/HolaMundo.runtimeconfig.json
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/bin/Debug/net8.0/HolaMundo.dll
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/bin/Debug/net8.0/HolaMundo.pdb
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfoInputs.cache
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfo.cs
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/HolaMundo.csproj.CoreCompileInputs.cache
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/HolaMundo.dll
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/refint/HolaMundo.dll
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/HolaMundo.pdb
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/HolaMundo.genruntimeconfig.cache
+/Users/alvaro/Projects/NetCoreSessions/HolaMundo/obj/Debug/net8.0/ref/HolaMundo.dll
